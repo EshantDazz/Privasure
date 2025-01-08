@@ -23,7 +23,7 @@ The SAR Redactions App is a Streamlit-based application designed to process PDF 
 
 1. Clone the repository:
 ```bash
-git clone [repository-url]
+git clone https://github.com/EshantDazz/Privasure.git
 cd [repository-name]
 ```
 

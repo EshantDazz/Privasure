@@ -92,7 +92,7 @@ streamlit run main.py
 
 ## Output Format
 
-The application generates an Excel report containing:
+The application generates an Excel report  containing:
 - Summary statistics
 - Entity detection results
 - Redaction analysis
